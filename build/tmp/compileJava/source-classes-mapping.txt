@@ -8,3 +8,5 @@ queue/ExemploLinkedList.java
  queue.ExemploLinkedList
 set/ExemploHashSet.java
  set.ExemploHashSet
+set/ExemploLinkedHashSet.java
+ set.ExemploLinkedHashSet
