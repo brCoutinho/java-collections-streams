@@ -22,8 +22,7 @@ public class ExercicioList {
 
         for(int i = 0; i <= selecaoPortugal.size()-1; i++){
             var nome = selecaoPortugal.get(i);
-            var temEsseNome = selecaoBelgica.contains(nome);
-            if (temEsseNome) {
+            if (selecaoBelgica.contains(nome)) {
                 System.out.println(nome + " semelhante a um nome da Seleção de Portugal");
             }
         }
