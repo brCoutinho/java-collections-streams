@@ -4,3 +4,5 @@ list/ExemploVector.java
  list.ExemploVector
 list/ExercicioList.java
  list.ExercicioList
+queue/ExemploLinkedList.java
+ queue.ExemploLinkedList
