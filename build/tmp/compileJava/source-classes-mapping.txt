@@ -6,3 +6,5 @@ list/ExercicioList.java
  list.ExercicioList
 queue/ExemploLinkedList.java
  queue.ExemploLinkedList
+set/ExemploHashSet.java
+ set.ExemploHashSet

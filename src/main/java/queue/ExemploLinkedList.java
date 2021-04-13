@@ -19,6 +19,6 @@ public class ExemploLinkedList {
 
         var primeiroCliente = filaBanco.peek();
         System.out.println(primeiroCliente);
-        
+
     }
 }
