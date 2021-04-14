@@ -12,3 +12,11 @@ set/ExemploLinkedHashSet.java
  set.ExemploLinkedHashSet
 set/ExemploTreeSet.java
  set.ExemploTreeSet
+map/ExemploHashMap.java
+ map.ExemploHashMap
+map/TesteHashMapLista.java
+ map.TesteHashMapLista
+map/ExemploTreeMap.java
+ map.ExemploTreeMap
+map/ExemploHashTable.java
+ map.ExemploHashTable
