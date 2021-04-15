@@ -1,22 +1,28 @@
+comparators/Estudante.java
+ comparators.Estudante
+map/ExemploHashTable.java
+ map.ExemploHashTable
 list/ExemploList.java
  list.ExemploList
-list/ExemploVector.java
- list.ExemploVector
+set/ExemploLinkedHashSet.java
+ set.ExemploLinkedHashSet
+set/ExemploTreeSet.java
+ set.ExemploTreeSet
 list/ExercicioList.java
  list.ExercicioList
 queue/ExemploLinkedList.java
  queue.ExemploLinkedList
 set/ExemploHashSet.java
  set.ExemploHashSet
-set/ExemploLinkedHashSet.java
- set.ExemploLinkedHashSet
-set/ExemploTreeSet.java
- set.ExemploTreeSet
-map/ExemploHashMap.java
- map.ExemploHashMap
-map/TesteHashMapLista.java
- map.TesteHashMapLista
 map/ExemploTreeMap.java
  map.ExemploTreeMap
-map/ExemploHashTable.java
- map.ExemploHashTable
+map/TesteHashMapLista.java
+ map.TesteHashMapLista
+map/ExemploHashMap.java
+ map.ExemploHashMap
+list/ExemploVector.java
+ list.ExemploVector
+comparators/EstudanteOrdemIdadeReversaComparator.java
+ comparators.EstudanteOrdemIdadeReversaComparator
+comparators/ExemploComparatorList.java
+ comparators.ExemploComparatorList
