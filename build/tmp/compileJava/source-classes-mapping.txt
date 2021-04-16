@@ -26,3 +26,9 @@ comparators/EstudanteOrdemIdadeReversaComparator.java
  comparators.EstudanteOrdemIdadeReversaComparator
 comparators/ExemploComparatorList.java
  comparators.ExemploComparatorList
+optionals/ExemploOptional.java
+ optionals.ExemploOptional
+optionals/ExemploOptionalPrimitivos.java
+ optionals.ExemploOptionalPrimitivos
+optionals/ExemploOptionalEstados.java
+ optionals.ExemploOptionalEstados
