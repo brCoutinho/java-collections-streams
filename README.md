@@ -26,5 +26,7 @@ Tópicos:
 -Comparators
 
 -Optional
+
+-Streams
 	
 ```
