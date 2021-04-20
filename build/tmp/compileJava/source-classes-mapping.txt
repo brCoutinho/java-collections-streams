@@ -34,3 +34,5 @@ optionals/ExemploOptionalEstados.java
  optionals.ExemploOptionalEstados
 stream/ExemploStreamAPI.java
  stream.ExemploStreamAPI
+stream/Exercicio.java
+ stream.Exercicio

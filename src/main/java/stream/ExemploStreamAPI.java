@@ -77,5 +77,7 @@ public class ExemploStreamAPI {
         //        .collect(Collectors.joining(", ")));
         //        .collect(Collectors.toSet()));
                 .collect(Collectors.groupingBy(estudante -> estudante.substring(estudante.indexOf("-") + 1))));
+
+        //"Maçã", "Laranja", "Banana", "Limão"
     }
 }
