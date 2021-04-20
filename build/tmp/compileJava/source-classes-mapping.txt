@@ -32,3 +32,5 @@ optionals/ExemploOptionalPrimitivos.java
  optionals.ExemploOptionalPrimitivos
 optionals/ExemploOptionalEstados.java
  optionals.ExemploOptionalEstados
+stream/ExemploStreamAPI.java
+ stream.ExemploStreamAPI
